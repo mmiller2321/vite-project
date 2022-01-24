@@ -11,3 +11,6 @@ git clone <this-repo>
 npm install
 npm run dev
 ```
+
+## Demo Static Screenshot
+![image](https://user-images.githubusercontent.com/40038829/150879877-9737df09-0584-4819-8c59-fbd0c22ffd70.png)
