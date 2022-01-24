@@ -14,3 +14,6 @@ npm run dev
 
 ## Demo Static Screenshot
 ![image](https://user-images.githubusercontent.com/40038829/150879877-9737df09-0584-4819-8c59-fbd0c22ffd70.png)
+
+## Demo Application Video
+https://www.loom.com/share/989c9e9a79ac4471a65e09074e5c6369
