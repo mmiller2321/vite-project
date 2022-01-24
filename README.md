@@ -18,6 +18,4 @@ npm run dev
 </p>
 
 ## Demo Application Video
-<p align="center">
-  <img src="https://www.loom.com/share/989c9e9a79ac4471a65e09074e5c6369" width=75% height=75%>
-</p>
+https://www.loom.com/share/989c9e9a79ac4471a65e09074e5c6369
