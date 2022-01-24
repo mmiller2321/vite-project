@@ -13,7 +13,11 @@ npm run dev
 ```
 
 ## Demo Static Screenshot
-![image](https://user-images.githubusercontent.com/40038829/150879877-9737df09-0584-4819-8c59-fbd0c22ffd70.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/40038829/150879877-9737df09-0584-4819-8c59-fbd0c22ffd70.png" width=75% height=75%>
+</p>
 
 ## Demo Application Video
-https://www.loom.com/share/989c9e9a79ac4471a65e09074e5c6369
+<p align="center">
+  <img src="https://www.loom.com/share/989c9e9a79ac4471a65e09074e5c6369" width=75% height=75%>
+</p>
